@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Primary",
+    "keyword": "entertainment",
+    "colors": {
+      "dominant": "#FFD464",
+      "contrastingDominant":
+      "#F26964", "subDominant": "#1253A4",
+      "contrastingSubDominant": "#F4F4F2",
+      "pop": "#30302F"
+    }
+  },
+  {
+    "title": "Secondary",
+    "keyword": "sporting",
+    "colors": {
+      "dominant": "#3F2860",
+      "contrastingDominant": "#90C5A9",
+      "subDominant": "#7A9A95",
+      "contrastingSubDominant": "#EF6D3B",
+      "pop": "#FA8b60"
+    }
+  },
+  {
+    "title": "Pastels",
+    "keyword": "e-commerce",
+    "colors": {
+      "dominant": "#F2F2F3",
+      "contrastingDominant": "#F5EACD",
+      "subDominant": "#1FDA9A",
+      "contrastingSubDominant": "#E9BC1B",
+      "pop": "#EE4B3E"
+    }
+  },
+  {
+    "title": "Muted",
+    "keyword": "blog",
+    "colors": {
+      "dominant": "#253939",
+      "contrastingDominant": "#558188",
+      "subDominant": "#5FA292",
+      "contrastingSubDominant": "#FF9C5F",
+      "pop": "#FF8B6C"
+    }
+  },
+  {
+    "title": "Vibrant",
+    "keyword": "charity",
+    "colors": {
+      "dominant": "#333333",
+      "contrastingDominant": "#E05151",
+      "subDominant": "#D9411E",
+      "contrastingSubDominant": "#FFD452",
+      "pop": "#75A3D1"
+    }
+  },
+  {
+    "title": "Tone",
+    "keyword": "e-commerce",
+    "colors": {
+      "dominant": "#C7D0D5",
+      "contrastingDominant": "#93B1C6",
+      "subDominant": "#F5F5F5",
+      "contrastingSubDominant": "#FF7148",
+      "pop": "#EC583A"
+    }
+  },
+  {
+    "title": "Masculine",
+    "keyword": "sporting",
+    "colors": {
+      "dominant": "#202020",
+      "contrastingDominant": "#B81D18",
+      "subDominant": "#B6B6B6",
+      "contrastingSubDominant": "#004687",
+      "pop": "#F0F0F0"
+    }
+  },
+  {
+    "title": "Call-to-Action",
+    "keyword": "sporting",
+    "colors": {
+      "dominant": "#393939",
+      "contrastingDominant": "#FF5A09",
+      "subDominant": "#F3843E",
+      "contrastingSubDominant": "#FF9900",
+      "pop": "#6E6E6E"
+    }
+  },
+  {
+    "title": "Fem",
+    "keyword": "entertainment",
+    "colors": {
+      "dominant": "#4D505B",
+      "contrastingDominant": "#CF4858",
+      "subDominant": "#16A79D",
+      "contrastingSubDominant": "#80628B",
+      "pop": "#F4AC42"
+    }
+  },
+  {
+    "title": "Boring",
+    "keyword": "e-commerce",
+    "colors": {
+      "dominant": "#FFF2E7",
+      "contrastingDominant": "#D0CABF",
+      "subDominant": "#B9B1A8",
+      "contrastingSubDominant": "#DE8642",
+      "pop": "#4B4D52"
+    }
+  },
+  {
+    "title": "Vibrant",
+    "keyword": "blog",
+    "colors": {
+      "dominant": "#293E6A",
+      "contrastingDominant": "#3B5998",
+      "subDominant": "#639BF1",
+      "contrastingSubDominant": "#77BA9B",
+      "pop": "#B6A754"
+    }
+  }
+]
