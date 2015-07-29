@@ -43,8 +43,8 @@
       palette.colors.contrastingDominant,
       palette.colors.subDominant,
       palette.colors.contrastingSubDominant,
-      palette.colors.pop,
-    ]
+      palette.colors.pop
+    ];
 
     var msgs = [
       "Dominant<br>",
@@ -52,15 +52,15 @@
       "Sub-Dominant<br>",
       "Contrasting<br>Sub-Dominant<br>",
       "Pop<br>"
-    ]
+    ];
 
-    var el, elHover;
-    for (i = 0; i < 5; i++) {
+    var el, elHover, i;
+    for (i = 0; i < colors.length; i++) {
       el = document.createElement('div');
       el.className = "palette__color";
       el.style.backgroundColor = colors[i];
       elHover = document.createElement('div');
-      elHover.className = "palette__colorHover";
+      elHover.className = "palette__colorInner";
       elHover.innerHTML = msgs[i] + colors[i];
       el.appendChild(elHover);
       colorsDiv.appendChild(el);

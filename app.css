@@ -53,10 +53,10 @@ body {
   width: 20%;
   display: inline-block;
   position: relative; }
-  .palette__color:hover > .palette__colorHover {
+  .palette__color:hover > .palette__colorInner {
     opacity: 1; }
 
-.palette__colorHover {
+.palette__colorInner {
   padding: 5px 0;
   line-height: 18px;
   position: absolute;
